@@ -1,3 +1,5 @@
+- 리눅스 민트에서 Virtual box 설치 및 사용하기
+
 Linux Mint 18.1 features Cinnamon 3.2, MDM 2.0, a Linux kernel 4.4 and an Ubuntu 16.04 package base
 
 (https://www.linuxmint.com/rel_serena_cinnamon_whatsnew.php)
@@ -5,7 +7,29 @@ Linux Mint 18.1 features Cinnamon 3.2, MDM 2.0, a Linux kernel 4.4 and an Ubuntu
 Ubuntu Xenial (16.04 LTS) 기반
 
 
-
-
-Vitrual box
+Vitrual box 홈페이지에서 다운로드 받아서 설치하는 방법이 보통 쓰임.
 https://www.virtualbox.org/wiki/Linux_Downloads
+
+
+민트는 소프트웨어 관리자에서 그냥 선택해서 받을 수 있는듯 하다.
+참고 : http://deneb21.tistory.com/374
+
+
+확장팩 관련 매뉴얼
+http://www.virtualbox.org/manual/ch02.html#install-linux-host
+
+
+
+- 파티션 관련 내용 읽기
+http://blog.dalli.kr/archives/1414
+
+
+- 민트에 MS 오피스 설치시 참조
+https://yckwon2nd.blogspot.kr/2016/01/linuxmint-17-ms-office-2014.html
+
+
+
+- jupyter
+
+http://jupyter.org/install.html
+http://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95
