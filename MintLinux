@@ -60,6 +60,9 @@ VLC 플레이어 사용해도 되는데 일단 깔아봤다..
 잘된다. 영문판이지만.
 
 
+6. Citrix 리시버 13.6 -> 13.4 재설치 후 정상동작 (데비안 계열 x86_64)
+
+
 ** 참고
 리눅스를 설치한 후에 추가로 몇 개 프로그램을 더 설치해 줘야 한다. 
 Adobe Flash Player, wine, winbind, Chrome,  PlayOnLinux 등이다. 
